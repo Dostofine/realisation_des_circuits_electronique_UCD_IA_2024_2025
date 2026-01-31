@@ -1,5 +1,2 @@
 # Treat Logisim .circ files as XML for GitHub language stats
 *.circ linguist-language=XML
-
-# Optional: Mark screenshots as non-code
-screenshots/* linguist-vendored
